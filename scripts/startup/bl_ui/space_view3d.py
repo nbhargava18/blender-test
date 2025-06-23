@@ -9293,7 +9293,7 @@ classes = (
     VIEW3D_PT_shading_cavity,
     VIEW3D_PT_shading_render_pass,
     VIEW3D_PT_shading_compositor,
-    VIEW3D_PT_gizmo_display,
+    # VIEW3D_PT_gizmo_display,
     VIEW3D_PT_overlay,
     VIEW3D_PT_overlay_guides,
     VIEW3D_PT_overlay_object,
