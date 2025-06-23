@@ -9297,7 +9297,7 @@ classes = (
     VIEW3D_PT_overlay,
     VIEW3D_PT_overlay_guides,
     VIEW3D_PT_overlay_object,
-    VIEW3D_PT_overlay_geometry,
+    # VIEW3D_PT_overlay_geometry,
     VIEW3D_PT_overlay_viewer_node,
     VIEW3D_PT_overlay_motion_tracking,
     VIEW3D_PT_overlay_edit_mesh,
